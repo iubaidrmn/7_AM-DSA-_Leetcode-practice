@@ -9,8 +9,17 @@ Developed understanding of Arrays in python.
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/1833-find-the-highest-altitude) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/1833-find-the-highest-altitude) |
+## String
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
