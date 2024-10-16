@@ -10,6 +10,7 @@ Developed understanding of Arrays in python.
 | ------- |
 | [0217-contains-duplicate](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1580-shuffle-the-array](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/1833-find-the-highest-altitude) |
