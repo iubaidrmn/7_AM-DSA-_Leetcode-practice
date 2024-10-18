@@ -25,6 +25,7 @@ Developed understanding of Arrays in python.
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0782-jewels-and-stones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -45,6 +46,7 @@ Developed understanding of Arrays in python.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0782-jewels-and-stones](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
