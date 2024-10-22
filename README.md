@@ -27,6 +27,7 @@ Developed understanding of Arrays in python.
 | ------- |
 | [0344-reverse-string](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0782-jewels-and-stones) |
+| [1894-merge-strings-alternately](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -39,6 +40,7 @@ Developed understanding of Arrays in python.
 | [0283-move-zeroes](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
