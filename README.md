@@ -25,6 +25,7 @@ Developed understanding of Arrays in python.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -41,6 +42,7 @@ Developed understanding of Arrays in python.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iubaidrmn/7_AM-DSA-_Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
